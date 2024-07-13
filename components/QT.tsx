@@ -58,7 +58,7 @@ const QT = () => {
   return (
     <div>
       <h1 className='text-3xl ml-20 pt-16 tracking-wide'>Questionable tees...</h1>
-      <div className='h-[70vh] bg-white px-10 py-6 overflow-x-auto'>
+      <div className='h-[80vh] bg-white px-10 py-6 overflow-x-auto overflow-y-hidden'>
         <div className='flex gap-4'>
           {clothData.map((cloth, index) => (
             <Card key={index} className='w-72 h-80 border-none'>
