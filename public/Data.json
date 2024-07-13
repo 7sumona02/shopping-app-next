@@ -1,0 +1,82 @@
+[
+    {
+      "image": "/t1.png",
+      "title": "Madness tee",
+      "originalPrice": "900.00",
+      "discountedPrice": "699.00",
+      "saleText": "Sale",
+      "productId": "1"
+    },
+    {
+      "image": "/t2.png",
+      "title": "Cool tee",
+      "originalPrice": "1000.00",
+      "discountedPrice": "799.00",
+      "saleText": "Sale",
+      "productId": "2"
+    },
+    {
+      "image": "/t3.png",
+      "title": "Pretty tee",
+      "originalPrice": "700.00",
+      "discountedPrice": "499.00",
+      "saleText": "Sale",
+      "productId": "3"
+    },
+    {
+      "image": "/t4.png",
+      "title": "Kitty tee",
+      "originalPrice": "800.00",
+      "discountedPrice": "599.00",
+      "saleText": "Sale",
+      "productId": "4"
+    },
+    {
+        "image": "/t1.png",
+        "title": "Madness tee",
+        "originalPrice": "900.00",
+        "discountedPrice": "699.00",
+        "saleText": "Sale",
+        "productId": "5"
+      },
+      {
+        "image": "/t2.png",
+        "title": "Cool tee",
+        "originalPrice": "1000.00",
+        "discountedPrice": "799.00",
+        "saleText": "Sale",
+        "productId": "6"
+      },
+      {
+        "image": "/t3.png",
+        "title": "Pretty tee",
+        "originalPrice": "700.00",
+        "discountedPrice": "499.00",
+        "saleText": "Sale",
+        "productId": "7"
+      },
+      {
+        "image": "/t4.png",
+        "title": "Kitty tee",
+        "originalPrice": "800.00",
+        "discountedPrice": "599.00",
+        "saleText": "Sale",
+        "productId": "8"
+      },
+      {
+        "image": "/t5.png",
+        "title": "Kitty tee",
+        "originalPrice": "800.00",
+        "discountedPrice": "599.00",
+        "saleText": "Sale",
+        "productId": "9"
+      },
+      {
+        "image": "/t6.png",
+        "title": "Kitty tee",
+        "originalPrice": "800.00",
+        "discountedPrice": "599.00",
+        "saleText": "Sale",
+        "productId": "10"
+      }
+  ]
